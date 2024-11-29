@@ -76,6 +76,7 @@ if(isset($message)){
       <input type="password" name="password" placeholder="nhập mật khẩu" required class="box">
       <input type="submit" name="submit" value="Đăng nhập" class="btn">
       <p>không có tài khoản? <a href="register.php">Đăng ký</a></p>
+	<p></P>
    </form>
 
 </div>
